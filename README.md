@@ -7,6 +7,10 @@
 > Risponde **in tempo reale**. Non allucina. Se non sa, passa la palla a un umano.
 
 <p align="center">
+  <img src="assets/hero-team-mIA.png" alt="Tu Fai il Tuo Lavoro. A Tutto il Resto Pensa mIA." width="100%">
+</p>
+
+<p align="center">
   <a href="https://agentemia.it">
     <img src="https://img.shields.io/badge/Sito_Ufficiale-agentemia.it-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sito">
   </a>
@@ -32,7 +36,11 @@ Non un plugin di terze parti: un sistema nativo che diventa la forza lavoro qual
 |----------|-------------|--------|
 | Risposte **in tempo reale** (Grok Voice + xAI) | Addestrato solo sui tuoi documenti (FAQ, listini, perizie) | Zero allucinazioni. Se non sa → umano |
 
-L’ICP completo e le verticali di servizio sono dettagliati sulle pagine SEO della landing **[agentemia.it](https://agentemia.it)**.
+L’ICP completo è dettagliato sulle pagine SEO della landing **[agentemia.it](https://agentemia.it)**.
+
+<p align="center">
+  <img src="assets/hero-11s-risposta-tempo-reale.png" alt="Risposta in Tempo Reale vs Mediana di Settore" width="80%">
+</p>
 
 ---
 
@@ -54,17 +62,29 @@ Cinque agenti specializzati che collaborano tramite **Context Handoff** automati
 
 ## ⚡ Innovazioni Tecniche (alto livello)
 
-### Native DOM Integration
+### Native DOM Integration — Naviga con l'utente
 Il widget ha accesso diretto al DOM della pagina. Monitora scroll, tempo di permanenza e sorgenti (UTM).  
 **"Naviga con l'utente"** — non aspetta la domanda.
+
+<p align="center">
+  <img src="assets/native-dom-naviga-utente.png" alt="Native DOM - Context Handoff Sofia → Daniel" width="80%">
+</p>
 
 ### Zero Drop-off
 Prenotazioni e moduli avvengono **dentro la chat** con componenti interattivi (date picker).  
 Niente link esterni che fanno perdere il 15-35% degli utenti.
 
+<p align="center">
+  <img src="assets/elena-prenotazione-calendar.png" alt="Elena: Prenotazione Senza Ostacoli" width="70%">
+</p>
+
 ### Knowledge Factory + Autonomous Dreaming
 - Con un click i documenti diventano slide, report, infografiche, cronologie (PPTX, DOCX, PNG)
 - Ogni notte gli agenti analizzano i log e si auto-ottimizzano senza intervento manuale
+
+<p align="center">
+  <img src="assets/autonomous-dreaming.png" alt="Autonomous Dreaming: Nessun Addestramento Manuale" width="80%">
+</p>
 
 ---
 
@@ -79,6 +99,16 @@ Non sono verticali rigide: sono collaboratori AI personalizzati che:
 - Si attivano in base al contesto della tua attività (professionista o PMI)
 
 L’esperienza è modellata sull’ICP reale mostrato nelle pagine SEO di **[agentemia.it](https://agentemia.it)**.
+
+---
+
+## 🔌 Installazione in 1 riga. Zero penali.
+
+<p align="center">
+  <img src="assets/1-riga-codice-zero-penali.png" alt="1 Riga di Codice. Zero Penali." width="80%">
+</p>
+
+Disdici in qualsiasi momento. Nessun vincolo.
 
 ---
 
@@ -126,8 +156,14 @@ Solo brand, posizionamento e chiarezza.
 
 ```
 agentemia/
-├── README.md          ← Questa pagina (la vetrina)
-├── assets/            ← Loghi, banner, foto agenti, screenshot (in arrivo)
+├── README.md
+├── assets/
+│   ├── hero-team-mIA.png
+│   ├── hero-11s-risposta-tempo-reale.png
+│   ├── native-dom-naviga-utente.png
+│   ├── elena-prenotazione-calendar.png
+│   ├── autonomous-dreaming.png
+│   └── 1-riga-codice-zero-penali.png
 ├── LICENSE
 ├── SECURITY.md
 └── CODE_OF_CONDUCT.md
