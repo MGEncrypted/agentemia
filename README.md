@@ -47,7 +47,7 @@ Cinque agenti specializzati che collaborano tramite **Context Handoff** automati
 <table align="center">
 <tr>
 <td align="center" width="120">
-<img src="sofia.jpg" width="90" style="border-radius:50%;"><br><strong>Sofia</strong><br><sub>Reception</sub>
+<img src="assets/Gemini_Generated_Image_o7cyhro7cyhro7cy.png" width="90" style="border-radius:50%;"><br><strong>Sofia</strong><br><sub>Reception</sub>
 </td>
 <td align="center" width="120">
 <img src="assets/Gemini_Generated_Image_tu1hjitu1hjitu1h.png" width="90" style="border-radius:50%;"><br><strong>Daniel</strong><br><sub>Vendita</sub>
@@ -187,12 +187,13 @@ agentemia/
 ├── README.md
 ├── assets/
 │   ├── mia-logo-orange.png
-│   ├── lucia.png
-│   ├── Gemini_Generated_Image_tu1hjitu1hjitu1h.png   (Daniel)
-│   ├── Gemini_Generated_Image_9aicyg9aicyg9aic.png   (Pablo)
+│   ├── Gemini_Generated_Image_o7cyhro7cyhro7cy.png  (Sofia)
+│   ├── Gemini_Generated_Image_tu1hjitu1hjitu1h.png  (Daniel)
+│   ├── lucia.png                                 (Lucia)
+│   ├── Gemini_Generated_Image_9aicyg9aicyg9aic.png  (Pablo)
 │   ├── 6.png ... 10.png
 │   └── ...
-├── sofia.jpg / elena-nobg.png
+├── elena-nobg.png
 ├── LICENSE
 ├── SECURITY.md
 └── CODE_OF_CONDUCT.md
