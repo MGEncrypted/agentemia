@@ -44,17 +44,25 @@ L'ICP completo è dettagliato sulle pagine SEO della landing **[agentemia.it](ht
 
 Cinque agenti specializzati che collaborano tramite **Context Handoff** automatico.
 
-<p align="center">
-  <img src="sofia.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover; margin:6px; border:3px solid #333;">
-  <img src="daniel.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover; margin:6px; border:3px solid #333;">
-  <span style="display:inline-block; width:100px; height:100px; border-radius:50%; background:#2a2a2a; color:#aaa; line-height:100px; text-align:center; font-size:28px; font-weight:bold; margin:6px; border:3px solid #333; vertical-align:middle;">L</span>
-  <img src="pablo.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover; margin:6px; border:3px solid #333;">
-  <img src="elena-nobg.png" width="100" height="100" style="border-radius:50%; object-fit:cover; margin:6px; border:3px solid #333;">
-</p>
-
-<p align="center">
-  <strong>Sofia</strong> &nbsp;&nbsp;&nbsp; <strong>Daniel</strong> &nbsp;&nbsp;&nbsp; <strong>Lucia</strong> &nbsp;&nbsp;&nbsp; <strong>Pablo</strong> &nbsp;&nbsp;&nbsp; <strong>Elena</strong>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="sofia.jpg" width="90" style="border-radius:50%;"><br><strong>Sofia</strong><br><sub>Reception</sub>
+</td>
+<td align="center" width="120">
+<img src="daniel.jpg" width="90" style="border-radius:50%;"><br><strong>Daniel</strong><br><sub>Vendita</sub>
+</td>
+<td align="center" width="120">
+<div style="width:90px;height:90px;border-radius:50%;background:#333;color:#888;display:flex;align-items:center;justify-content:center;font-size:32px;font-weight:bold;margin:0 auto;">L</div><br><strong>Lucia</strong><br><sub>Care</sub>
+</td>
+<td align="center" width="120">
+<img src="pablo.jpg" width="90" style="border-radius:50%;"><br><strong>Pablo</strong><br><sub>Supporto Tecnico</sub>
+</td>
+<td align="center" width="120">
+<img src="elena-nobg.png" width="90" style="border-radius:50%;"><br><strong>Elena</strong><br><sub>Agenda</sub>
+</td>
+</tr>
+</table>
 
 | Agente | Ruolo | Cosa fa |
 |--------|-------|---------|
