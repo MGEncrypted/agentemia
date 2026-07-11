@@ -2,8 +2,8 @@
 
 ### Il Reparto Front-Office AI nativo per professionisti e PMI
 
-**Non e un chatbot.**  
-E un sistema fuso nativamente con la tua landing page.  
+**Non è un chatbot.**  
+È un sistema fuso nativamente con la tua landing page.  
 Risponde **in tempo reale**. Non allucina. Se non sa, passa la palla a un umano.
 
 <p align="center">
@@ -23,16 +23,16 @@ Risponde **in tempo reale**. Non allucina. Se non sa, passa la palla a un umano.
 
 ---
 
-## Cos'e agentemIA
+## Cos'è agentemIA
 
-**agentemIA** e un **Reparto Front-Office AI** integrato.  
+**agentemIA** è un **Reparto Front-Office AI** integrato.  
 Non un plugin di terze parti: un sistema nativo che diventa la forza lavoro qualificata che i piccoli professionisti, le PMI, gli hotel, le palestre e gli studi tecnici non possono permettersi a tempo pieno.
 
-| Velocita | Verticalita | Verita |
+| Velocità | Verticalità | Verità |
 |----------|-------------|--------|
 | Risposte **in tempo reale** (Grok Voice + xAI) | Addestrato solo sui tuoi documenti (FAQ, listini, perizie) | Zero allucinazioni. Se non sa → umano |
 
-L'ICP completo e dettagliato sulle pagine SEO della landing **[agentemia.it](https://agentemia.it)**.
+L'ICP completo è dettagliato sulle pagine SEO della landing **[agentemia.it](https://agentemia.it)**.
 
 ---
 
@@ -73,12 +73,12 @@ Niente link esterni che fanno perdere il 15-35% degli utenti.
 Oltre al Front-Office, agentemIA installa **agenti che girano direttamente sul tuo dashboard** per assisterti in **tutte le tue tasks quotidiane**, adattati alla tua professione o alla tua impresa.
 
 Non sono verticali rigide: sono collaboratori AI personalizzati che:
-- Conoscono i tuoi documenti, processi e priorita
-- Ti aiutano a eseguire, organizzare e completare le attivita del giorno
+- Conoscono i tuoi documenti, processi e priorità
+- Ti aiutano a eseguire, organizzare e completare le attività del giorno
 - Lavorano in sincronia con la console operativa (funnel, lead, agenda, knowledge base)
-- Si attivano in base al contesto della tua attivita (professionista o PMI)
+- Si attivano in base al contesto della tua attività (professionista o PMI)
 
-L'esperienza e modellata sull'ICP reale mostrato nelle pagine SEO di **[agentemia.it](https://agentemia.it)**.
+L'esperienza è modellata sull'ICP reale mostrato nelle pagine SEO di **[agentemia.it](https://agentemia.it)**.
 
 ---
 
@@ -91,8 +91,8 @@ Disdici in qualsiasi momento. Nessun vincolo. Nessuna penale.
 
 ## Strategia AEO (AI Visibility)
 
-Rendiamo la tua attivita **Agent-Ready**.  
-Costruiamo pagine-risposta ottimizzate affinche ChatGPT, Gemini e Perplexity citino la tua attivita quando qualcuno chiede consigli rilevanti per il tuo settore.
+Rendiamo la tua attività **Agent-Ready**.  
+Costruiamo pagine-risposta ottimizzate affinché ChatGPT, Gemini e Perplexity citino la tua attività quando qualcuno chiede consigli rilevanti per il tuo settore.
 
 ---
 
@@ -127,7 +127,7 @@ Monitoraggio funnel a **8 stati** (da nuovo lead a cliente) + costi in tempo rea
 
 ### Struttura di questa vetrina
 
-Questa repository e **solo vetrina pubblica**.  
+Questa repository è **solo vetrina pubblica**.  
 Nessun file di codice, nessuna infrastruttura interna, nessun segreto.  
 Solo brand, posizionamento e chiarezza.
 
@@ -150,7 +150,7 @@ agentemia/
 ---
 
 <p align="center">
-  <strong>agentemIA</strong> — Velocita · Verticalita · Verita<br>
+  <strong>agentemIA</strong> — Velocità · Verticalità · Verità<br>
   <sub>Reparto Front-Office AI nativo · Made in EU · GDPR Compliant</sub><br>
   <sub>IA PER PROFESSIONISTI E IMPRESE</sub>
 </p>
