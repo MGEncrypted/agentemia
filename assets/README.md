@@ -1,15 +1,17 @@
 # Assets — Brand Visuals agentemIA
 
-Carica qui le immagini ottimizzate (max 900-1200px, PNG/WebP).
+Carica qui le immagini ottimizzate (max 900-1200px, PNG).
 
-File attesi (già preparati e ottimizzati):
+File attesi (gia preparati e ottimizzati nella cartella Google Drive agentemia-github-assets):
+
+- logo-mia.png                  (logo ufficiale mIA orange/silver)
 - hero-team-mIA.png
-- hero-11s-risposta-tempo-reale.png
+- hero-risposta-tempo-reale.png
 - native-dom-naviga-utente.png
 - elena-prenotazione-calendar.png
 - autonomous-dreaming.png
 - 1-riga-codice-zero-penali.png
 
-Le versioni ottimizzate sono già nella cartella Google Drive **agentemia-github-assets** del tuo account connesso.
+Dopo il drag & drop su GitHub, le immagini appariranno automaticamente nella README.
 
-Drag & drop direttamente su GitHub web UI → assets/ per aggiornare la vetrina in 10 secondi.
+Cartella Drive: https://drive.google.com/drive/folders/1JXT4MpWPaq8kAPlh6Eg1ponA-U-3b6hy
