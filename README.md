@@ -44,13 +44,13 @@ L'ICP completo è dettagliato sulle pagine SEO della landing **[agentemia.it](ht
 
 Cinque agenti specializzati che collaborano tramite **Context Handoff** automatico:
 
-| | Agente | Ruolo | Cosa fa |
-|---|--------|-------|---------|
-| <img src="sofia.jpg" width="64" height="64" style="border-radius:50%"> | **Sofia** | Reception | Accoglienza e qualifica iniziale del lead |
-| <img src="daniel.jpg" width="64" height="64" style="border-radius:50%"> | **Daniel** | Vendita | Gestione lead, proposte commerciali e closing |
-| | **Lucia** | Care | Assistenza clienti e risoluzione problemi |
-| <img src="pablo.jpg" width="64" height="64" style="border-radius:50%"> | **Pablo** | Supporto Tecnico | Risposte profonde basate su documentazione (RAG) |
-| <img src="elena-nobg.png" width="64" height="64" style="border-radius:50%"> | **Elena** | Agenda | Prenotazione appuntamenti real-time (Google/Outlook Calendar) |
+| Foto | Agente | Ruolo | Cosa fa |
+|------|--------|-------|---------|
+| <img src="sofia.jpg" width="72" height="72" style="border-radius: 50%; object-fit: cover; object-position: center;"> | **Sofia** | Reception | Accoglienza e qualifica iniziale del lead |
+| <img src="daniel.jpg" width="72" height="72" style="border-radius: 50%; object-fit: cover; object-position: center;"> | **Daniel** | Vendita | Gestione lead, proposte commerciali e closing |
+|  | **Lucia** | Care | Assistenza clienti e risoluzione problemi |
+| <img src="pablo.jpg" width="72" height="72" style="border-radius: 50%; object-fit: cover; object-position: center;"> | **Pablo** | Supporto Tecnico | Risposte profonde basate su documentazione (RAG) |
+| <img src="elena-nobg.png" width="72" height="72" style="border-radius: 50%; object-fit: cover; object-position: center;"> | **Elena** | Agenda | Prenotazione appuntamenti real-time (Google/Outlook Calendar) |
 
 **Context Handoff nativo**: se l'utente scrolla sulla sezione prezzi, Sofia passa silenziosamente il contesto a Daniel. Zero interruzioni. Zero drop-off.
 
@@ -167,7 +167,7 @@ agentemia/
 ├── README.md
 ├── assets/
 │   ├── mia-logo-orange.png
-│   ├── 6.png ... 10.png          (slide brand)
+│   ├── 6.png ... 10.png
 │   └── ...
 ├── sofia.jpg / daniel.jpg / pablo.jpg / elena-nobg.png
 ├── LICENSE
