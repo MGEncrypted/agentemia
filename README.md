@@ -53,7 +53,7 @@ Cinque agenti specializzati che collaborano tramite **Context Handoff** automati
 <img src="daniel.jpg" width="90" style="border-radius:50%;"><br><strong>Daniel</strong><br><sub>Vendita</sub>
 </td>
 <td align="center" width="120">
-<div style="width:90px;height:90px;border-radius:50%;background:#333;color:#888;display:flex;align-items:center;justify-content:center;font-size:32px;font-weight:bold;margin:0 auto;">L</div><br><strong>Lucia</strong><br><sub>Care</sub>
+<img src="lucia.png" width="90" style="border-radius:50%;"><br><strong>Lucia</strong><br><sub>Care</sub>
 </td>
 <td align="center" width="120">
 <img src="pablo.jpg" width="90" style="border-radius:50%;"><br><strong>Pablo</strong><br><sub>Supporto Tecnico</sub>
@@ -189,7 +189,7 @@ agentemia/
 │   ├── mia-logo-orange.png
 │   ├── 6.png ... 10.png
 │   └── ...
-├── sofia.jpg / daniel.jpg / pablo.jpg / elena-nobg.png
+├── sofia.jpg / daniel.jpg / lucia.png / pablo.jpg / elena-nobg.png
 ├── LICENSE
 ├── SECURITY.md
 └── CODE_OF_CONDUCT.md
