@@ -4,14 +4,14 @@
 
 > **Non è un chatbot.**  
 > È un sistema fuso nativamente con la tua landing page.  
-> Risponde in **11 secondi**. Non allucina. Se non sa, passa la palla a un umano.
+> Risponde **in tempo reale**. Non allucina. Se non sa, passa la palla a un umano.
 
 <p align="center">
   <a href="https://agentemia.it">
     <img src="https://img.shields.io/badge/Sito_Ufficiale-agentemia.it-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sito">
   </a>
   <a href="https://agentemia.it">
-    <img src="https://img.shields.io/badge/Risponde_in-11_secondi-00C853?style=for-the-badge" alt="11s">
+    <img src="https://img.shields.io/badge/Risposte_in_tempo_reale-00C853?style=for-the-badge" alt="Real-time">
   </a>
   <a href="#gdpr--privacy">
     <img src="https://img.shields.io/badge/GDPR-Compliant_UE-0052CC?style=for-the-badge&logo=european-union&logoColor=white" alt="GDPR">
@@ -26,11 +26,13 @@
 ## 🎯 Cos'è agentemIA
 
 **agentemIA** è un **Reparto Front-Office AI** integrato.  
-Non un plugin di terze parti: un sistema nativo che diventa la forza lavoro qualificata che i piccoli professionisti (medici, avvocati, fisioterapisti), le PMI, gli hotel, le palestre e gli studi tecnici non possono permettersi a tempo pieno.
+Non un plugin di terze parti: un sistema nativo che diventa la forza lavoro qualificata che i piccoli professionisti, le PMI, gli hotel, le palestre e gli studi tecnici non possono permettersi a tempo pieno.
 
 | Velocità | Verticalità | Verità |
 |----------|-------------|--------|
-| 11 secondi di risposta media | Addestrato solo sui tuoi documenti (FAQ, listini, perizie) | Zero allucinazioni. Se non sa → umano |
+| Risposte **in tempo reale** (Grok Voice + xAI) | Addestrato solo sui tuoi documenti (FAQ, listini, perizie) | Zero allucinazioni. Se non sa → umano |
+
+L’ICP completo e le verticali di servizio sono dettagliati sulle pagine SEO della landing **[agentemia.it](https://agentemia.it)**.
 
 ---
 
@@ -66,22 +68,24 @@ Niente link esterni che fanno perdere il 15-35% degli utenti.
 
 ---
 
-## 🏢 Office Assistant — Verticali di Professione
+## 🖥️ Dashboard Agents — Assistenti operativi quotidiani
 
-Agenti addestrati su normative e flussi specifici:
+Oltre al Front-Office, agentemIA installa **agenti che girano direttamente sul tuo dashboard** per assisterti in **tutte le tue tasks quotidiane**, adattati alla tua professione o alla tua impresa.
 
-- **Legale** → Bozze di atti e ricerca giurisprudenza
-- **Medico / Fisio** → Anamnesi pre-visita e gestione richiami
-- **Contabile** → Pre-compilazione modulistica e scadenziari
-- **Real Estate** → Schede immobili e computi metrici
+Non sono verticali rigide: sono collaboratori AI personalizzati che:
+- Conoscono i tuoi documenti, processi e priorità
+- Ti aiutano a eseguire, organizzare e completare le attività del giorno
+- Lavorano in sincronia con la console operativa (funnel, lead, agenda, knowledge base)
+- Si attivano in base al contesto della tua attività (professionista o PMI)
+
+L’esperienza è modellata sull’ICP reale mostrato nelle pagine SEO di **[agentemia.it](https://agentemia.it)**.
 
 ---
 
 ## 🔍 Strategia AEO (AI Visibility)
 
 Rendiamo la tua attività **Agent-Ready**.  
-Costruiamo pagine-risposta ottimizzate affinché ChatGPT, Gemini e Perplexity citino la tua attività quando qualcuno chiede:  
-*"Chi è il miglior dentista / avvocato / fisioterapista in zona?"*
+Costruiamo pagine-risposta ottimizzate affinché ChatGPT, Gemini e Perplexity citino la tua attività quando qualcuno chiede consigli rilevanti per il tuo settore.
 
 ---
 
