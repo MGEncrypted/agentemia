@@ -1,2 +1,137 @@
-# agentemia
-agentemIA — Il Reparto Front-Office AI nativo. Velocità, Verticalità, Verità. Vetrina pubblica del brand per professionisti e PMI.
+# 🚀 agentemIA
+
+### Il **Reparto Front-Office AI** nativo per professionisti e PMI
+
+> **Non è un chatbot.**  
+> È un sistema fuso nativamente con la tua landing page.  
+> Risponde in **11 secondi**. Non allucina. Se non sa, passa la palla a un umano.
+
+<p align="center">
+  <a href="https://agentemia.it">
+    <img src="https://img.shields.io/badge/Sito_Ufficiale-agentemia.it-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sito">
+  </a>
+  <a href="https://agentemia.it">
+    <img src="https://img.shields.io/badge/Risponde_in-11_secondi-00C853?style=for-the-badge" alt="11s">
+  </a>
+  <a href="#gdpr--privacy">
+    <img src="https://img.shields.io/badge/GDPR-Compliant_UE-0052CC?style=for-the-badge&logo=european-union&logoColor=white" alt="GDPR">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Nessuna_Penale-Cancellabile_in_qualsiasi_momento-FF6B00?style=for-the-badge" alt="No lock-in">
+  </a>
+</p>
+
+---
+
+## 🎯 Cos'è agentemIA
+
+**agentemIA** è un **Reparto Front-Office AI** integrato.  
+Non un plugin di terze parti: un sistema nativo che diventa la forza lavoro qualificata che i piccoli professionisti (medici, avvocati, fisioterapisti), le PMI, gli hotel, le palestre e gli studi tecnici non possono permettersi a tempo pieno.
+
+| Velocità | Verticalità | Verità |
+|----------|-------------|--------|
+| 11 secondi di risposta media | Addestrato solo sui tuoi documenti (FAQ, listini, perizie) | Zero allucinazioni. Se non sa → umano |
+
+---
+
+## 👥 La Squadra AI — Famiglia Recepcionista
+
+Cinque agenti specializzati che collaborano tramite **Context Handoff** automatico:
+
+| Agente | Ruolo | Cosa fa |
+|--------|-------|---------|
+| **Sofia** | Reception | Accoglienza e qualifica iniziale del lead |
+| **Daniel** | Vendita | Gestione lead, proposte commerciali e closing |
+| **Lucia** | Care | Assistenza clienti e risoluzione problemi |
+| **Pablo** | Supporto Tecnico | Risposte profonde basate su documentazione (RAG) |
+| **Elena** | Agenda | Prenotazione appuntamenti real-time (Google/Outlook Calendar) |
+
+> 🔄 **Context Handoff nativo**: se l'utente scrolla sulla sezione prezzi, Sofia passa silenziosamente il contesto a Daniel. Zero interruzioni. Zero drop-off.
+
+---
+
+## ⚡ Innovazioni Tecniche (alto livello)
+
+### Native DOM Integration
+Il widget ha accesso diretto al DOM della pagina. Monitora scroll, tempo di permanenza e sorgenti (UTM).  
+**"Naviga con l'utente"** — non aspetta la domanda.
+
+### Zero Drop-off
+Prenotazioni e moduli avvengono **dentro la chat** con componenti interattivi (date picker).  
+Niente link esterni che fanno perdere il 15-35% degli utenti.
+
+### Knowledge Factory + Autonomous Dreaming
+- Con un click i documenti diventano slide, report, infografiche, cronologie (PPTX, DOCX, PNG)
+- Ogni notte gli agenti analizzano i log e si auto-ottimizzano senza intervento manuale
+
+---
+
+## 🏢 Office Assistant — Verticali di Professione
+
+Agenti addestrati su normative e flussi specifici:
+
+- **Legale** → Bozze di atti e ricerca giurisprudenza
+- **Medico / Fisio** → Anamnesi pre-visita e gestione richiami
+- **Contabile** → Pre-compilazione modulistica e scadenziari
+- **Real Estate** → Schede immobili e computi metrici
+
+---
+
+## 🔍 Strategia AEO (AI Visibility)
+
+Rendiamo la tua attività **Agent-Ready**.  
+Costruiamo pagine-risposta ottimizzate affinché ChatGPT, Gemini e Perplexity citino la tua attività quando qualcuno chiede:  
+*"Chi è il miglior dentista / avvocato / fisioterapista in zona?"*
+
+---
+
+## 🔒 GDPR & Privacy
+
+- Tutti i dati risiedono **nell'Unione Europea**
+- agentemIA = Responsabile del trattamento
+- Cliente = Titolare del trattamento
+- Modello ad abbonamento mensile **cancellabile in qualsiasi momento** (nessuna penale)
+
+---
+
+## 📊 Dashboard & Lead Funnel
+
+Console operativa in italiano:  
+Monitoraggio funnel a **8 stati** (da nuovo lead a cliente) + costi in tempo reale.
+
+---
+
+## 🚀 Pronto a installare il tuo Reparto Front-Office AI?
+
+<p align="center">
+  <a href="https://agentemia.it">
+    <img src="https://img.shields.io/badge/Vai_al_Sito-agentemia.it-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sito">
+  </a>
+  <a href="mailto:info@agentemia.it">
+    <img src="https://img.shields.io/badge/Scrivici-info@agentemia.it-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+### 📁 Struttura di questa vetrina
+
+Questa repository è **solo vetrina pubblica**.  
+Nessun file di codice, nessuna infrastruttura interna, nessun segreto.  
+Solo brand, posizionamento e chiarezza.
+
+```
+agentemia/
+├── README.md          ← Questa pagina (la vetrina)
+├── assets/            ← Loghi, banner, foto agenti, screenshot (in arrivo)
+├── LICENSE
+├── SECURITY.md
+└── CODE_OF_CONDUCT.md
+```
+
+---
+
+<p align="center">
+  <strong>agentemIA</strong> — Velocità · Verticalità · Verità<br>
+  <sub>Reparto Front-Office AI nativo · Made in EU · GDPR Compliant</sub>
+</p>
