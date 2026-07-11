@@ -42,15 +42,22 @@ L'ICP completo è dettagliato sulle pagine SEO della landing **[agentemia.it](ht
 
 ## La Squadra AI — Famiglia Recepcionista
 
-Cinque agenti specializzati che collaborano tramite **Context Handoff** automatico:
+Cinque agenti specializzati che collaborano tramite **Context Handoff** automatico.
 
-| Foto | Agente | Ruolo | Cosa fa |
-|------|--------|-------|---------|
-| <img src="sofia.jpg" width="72" height="72" style="border-radius: 50%; object-fit: cover; object-position: center;"> | **Sofia** | Reception | Accoglienza e qualifica iniziale del lead |
-| <img src="daniel.jpg" width="72" height="72" style="border-radius: 50%; object-fit: cover; object-position: center;"> | **Daniel** | Vendita | Gestione lead, proposte commerciali e closing |
-|  | **Lucia** | Care | Assistenza clienti e risoluzione problemi |
-| <img src="pablo.jpg" width="72" height="72" style="border-radius: 50%; object-fit: cover; object-position: center;"> | **Pablo** | Supporto Tecnico | Risposte profonde basate su documentazione (RAG) |
-| <img src="elena-nobg.png" width="72" height="72" style="border-radius: 50%; object-fit: cover; object-position: center;"> | **Elena** | Agenda | Prenotazione appuntamenti real-time (Google/Outlook Calendar) |
+<p align="center">
+  <img src="sofia.jpg" width="110" style="border-radius: 50%; margin: 8px;">
+  <img src="daniel.jpg" width="110" style="border-radius: 50%; margin: 8px;">
+  <img src="pablo.jpg" width="110" style="border-radius: 50%; margin: 8px;">
+  <img src="elena-nobg.png" width="110" style="border-radius: 50%; margin: 8px;">
+</p>
+
+| Agente | Ruolo | Cosa fa |
+|--------|-------|---------|
+| **Sofia** | Reception | Accoglienza e qualifica iniziale del lead |
+| **Daniel** | Vendita | Gestione lead, proposte commerciali e closing |
+| **Lucia** | Care | Assistenza clienti e risoluzione problemi |
+| **Pablo** | Supporto Tecnico | Risposte profonde basate su documentazione (RAG) |
+| **Elena** | Agenda | Prenotazione appuntamenti real-time (Google/Outlook Calendar) |
 
 **Context Handoff nativo**: se l'utente scrolla sulla sezione prezzi, Sofia passa silenziosamente il contesto a Daniel. Zero interruzioni. Zero drop-off.
 
