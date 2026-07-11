@@ -1,5 +1,9 @@
 # agentemIA
 
+<p align="center">
+  <img src="assets/mia-logo-orange.png" alt="mIA - IA per Professionisti e Imprese" width="280">
+</p>
+
 ### Il Reparto Front-Office AI nativo per professionisti e PMI
 
 **Non è un chatbot.**  
@@ -40,13 +44,13 @@ L'ICP completo è dettagliato sulle pagine SEO della landing **[agentemia.it](ht
 
 Cinque agenti specializzati che collaborano tramite **Context Handoff** automatico:
 
-| Agente | Ruolo | Cosa fa |
-|--------|-------|---------|
-| **Sofia** | Reception | Accoglienza e qualifica iniziale del lead |
-| **Daniel** | Vendita | Gestione lead, proposte commerciali e closing |
-| **Lucia** | Care | Assistenza clienti e risoluzione problemi |
-| **Pablo** | Supporto Tecnico | Risposte profonde basate su documentazione (RAG) |
-| **Elena** | Agenda | Prenotazione appuntamenti real-time (Google/Outlook Calendar) |
+| | Agente | Ruolo | Cosa fa |
+|---|--------|-------|---------|
+| <img src="sofia.jpg" width="64" height="64" style="border-radius:50%"> | **Sofia** | Reception | Accoglienza e qualifica iniziale del lead |
+| <img src="daniel.jpg" width="64" height="64" style="border-radius:50%"> | **Daniel** | Vendita | Gestione lead, proposte commerciali e closing |
+| | **Lucia** | Care | Assistenza clienti e risoluzione problemi |
+| <img src="pablo.jpg" width="64" height="64" style="border-radius:50%"> | **Pablo** | Supporto Tecnico | Risposte profonde basate su documentazione (RAG) |
+| <img src="elena-nobg.png" width="64" height="64" style="border-radius:50%"> | **Elena** | Agenda | Prenotazione appuntamenti real-time (Google/Outlook Calendar) |
 
 **Context Handoff nativo**: se l'utente scrolla sulla sezione prezzi, Sofia passa silenziosamente il contesto a Daniel. Zero interruzioni. Zero drop-off.
 
@@ -58,9 +62,28 @@ Cinque agenti specializzati che collaborano tramite **Context Handoff** automati
 Il widget ha accesso diretto al DOM della pagina. Monitora scroll, tempo di permanenza e sorgenti (UTM).  
 **"Naviga con l'utente"** — non aspetta la domanda.
 
+<p align="center">
+  <img src="assets/9.png" alt="Naviga con l'utente - Native DOM" width="85%">
+</p>
+
 ### Zero Drop-off
 Prenotazioni e moduli avvengono **dentro la chat** con componenti interattivi (date picker).  
 Niente link esterni che fanno perdere il 15-35% degli utenti.
+
+<p align="center">
+  <img src="assets/6.png" alt="La fine dell'era dei link" width="85%">
+</p>
+
+<p align="center">
+  <img src="assets/8.png" alt="Prenotazioni a attrito zero - Elena" width="85%">
+</p>
+
+### Il tuo marchio, non il loro
+Ogni conversazione avviene interamente all'interno della tua landing page brandizzata. Tu possiedi lo script, l'infrastruttura e il dato.
+
+<p align="center">
+  <img src="assets/7.png" alt="Il tuo marchio, non il loro" width="85%">
+</p>
 
 ### Knowledge Factory + Autonomous Dreaming
 - Con un click i documenti diventano slide, report, infografiche, cronologie (PPTX, DOCX, PNG)
@@ -79,6 +102,14 @@ Non sono verticali rigide: sono collaboratori AI personalizzati che:
 - Si attivano in base al contesto della tua attività (professionista o PMI)
 
 L'esperienza è modellata sull'ICP reale mostrato nelle pagine SEO di **[agentemia.it](https://agentemia.it)**.
+
+---
+
+## Trasforma il tuo sito in un ufficio
+
+<p align="center">
+  <img src="assets/10.png" alt="Trasforma il tuo sito in un ufficio - risultati" width="85%">
+</p>
 
 ---
 
@@ -135,13 +166,10 @@ Solo brand, posizionamento e chiarezza.
 agentemia/
 ├── README.md
 ├── assets/
-│   ├── logo-mia.png                 (logo ufficiale mIA)
-│   ├── hero-team-mIA.png
-│   ├── hero-risposta-tempo-reale.png
-│   ├── native-dom-naviga-utente.png
-│   ├── elena-prenotazione-calendar.png
-│   ├── autonomous-dreaming.png
-│   └── 1-riga-codice-zero-penali.png
+│   ├── mia-logo-orange.png
+│   ├── 6.png ... 10.png          (slide brand)
+│   └── ...
+├── sofia.jpg / daniel.jpg / pablo.jpg / elena-nobg.png
 ├── LICENSE
 ├── SECURITY.md
 └── CODE_OF_CONDUCT.md
