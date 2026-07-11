@@ -1,14 +1,10 @@
-# 🚀 agentemIA
+# agentemIA
 
-### Il **Reparto Front-Office AI** nativo per professionisti e PMI
+### Il Reparto Front-Office AI nativo per professionisti e PMI
 
-> **Non è un chatbot.**  
-> È un sistema fuso nativamente con la tua landing page.  
-> Risponde **in tempo reale**. Non allucina. Se non sa, passa la palla a un umano.
-
-<p align="center">
-  <img src="assets/hero-team-mIA.png" alt="Tu Fai il Tuo Lavoro. A Tutto il Resto Pensa mIA." width="100%">
-</p>
+**Non e un chatbot.**  
+E un sistema fuso nativamente con la tua landing page.  
+Risponde **in tempo reale**. Non allucina. Se non sa, passa la palla a un umano.
 
 <p align="center">
   <a href="https://agentemia.it">
@@ -27,24 +23,20 @@
 
 ---
 
-## 🎯 Cos'è agentemIA
+## Cos'e agentemIA
 
-**agentemIA** è un **Reparto Front-Office AI** integrato.  
+**agentemIA** e un **Reparto Front-Office AI** integrato.  
 Non un plugin di terze parti: un sistema nativo che diventa la forza lavoro qualificata che i piccoli professionisti, le PMI, gli hotel, le palestre e gli studi tecnici non possono permettersi a tempo pieno.
 
-| Velocità | Verticalità | Verità |
+| Velocita | Verticalita | Verita |
 |----------|-------------|--------|
 | Risposte **in tempo reale** (Grok Voice + xAI) | Addestrato solo sui tuoi documenti (FAQ, listini, perizie) | Zero allucinazioni. Se non sa → umano |
 
-L’ICP completo è dettagliato sulle pagine SEO della landing **[agentemia.it](https://agentemia.it)**.
-
-<p align="center">
-  <img src="assets/hero-11s-risposta-tempo-reale.png" alt="Risposta in Tempo Reale vs Mediana di Settore" width="80%">
-</p>
+L'ICP completo e dettagliato sulle pagine SEO della landing **[agentemia.it](https://agentemia.it)**.
 
 ---
 
-## 👥 La Squadra AI — Famiglia Recepcionista
+## La Squadra AI — Famiglia Recepcionista
 
 Cinque agenti specializzati che collaborano tramite **Context Handoff** automatico:
 
@@ -56,70 +48,55 @@ Cinque agenti specializzati che collaborano tramite **Context Handoff** automati
 | **Pablo** | Supporto Tecnico | Risposte profonde basate su documentazione (RAG) |
 | **Elena** | Agenda | Prenotazione appuntamenti real-time (Google/Outlook Calendar) |
 
-> 🔄 **Context Handoff nativo**: se l'utente scrolla sulla sezione prezzi, Sofia passa silenziosamente il contesto a Daniel. Zero interruzioni. Zero drop-off.
+**Context Handoff nativo**: se l'utente scrolla sulla sezione prezzi, Sofia passa silenziosamente il contesto a Daniel. Zero interruzioni. Zero drop-off.
 
 ---
 
-## ⚡ Innovazioni Tecniche (alto livello)
+## Innovazioni Tecniche (alto livello)
 
 ### Native DOM Integration — Naviga con l'utente
 Il widget ha accesso diretto al DOM della pagina. Monitora scroll, tempo di permanenza e sorgenti (UTM).  
 **"Naviga con l'utente"** — non aspetta la domanda.
 
-<p align="center">
-  <img src="assets/native-dom-naviga-utente.png" alt="Native DOM - Context Handoff Sofia → Daniel" width="80%">
-</p>
-
 ### Zero Drop-off
 Prenotazioni e moduli avvengono **dentro la chat** con componenti interattivi (date picker).  
 Niente link esterni che fanno perdere il 15-35% degli utenti.
-
-<p align="center">
-  <img src="assets/elena-prenotazione-calendar.png" alt="Elena: Prenotazione Senza Ostacoli" width="70%">
-</p>
 
 ### Knowledge Factory + Autonomous Dreaming
 - Con un click i documenti diventano slide, report, infografiche, cronologie (PPTX, DOCX, PNG)
 - Ogni notte gli agenti analizzano i log e si auto-ottimizzano senza intervento manuale
 
-<p align="center">
-  <img src="assets/autonomous-dreaming.png" alt="Autonomous Dreaming: Nessun Addestramento Manuale" width="80%">
-</p>
-
 ---
 
-## 🖥️ Dashboard Agents — Assistenti operativi quotidiani
+## Dashboard Agents — Assistenti operativi quotidiani
 
 Oltre al Front-Office, agentemIA installa **agenti che girano direttamente sul tuo dashboard** per assisterti in **tutte le tue tasks quotidiane**, adattati alla tua professione o alla tua impresa.
 
 Non sono verticali rigide: sono collaboratori AI personalizzati che:
-- Conoscono i tuoi documenti, processi e priorità
-- Ti aiutano a eseguire, organizzare e completare le attività del giorno
+- Conoscono i tuoi documenti, processi e priorita
+- Ti aiutano a eseguire, organizzare e completare le attivita del giorno
 - Lavorano in sincronia con la console operativa (funnel, lead, agenda, knowledge base)
-- Si attivano in base al contesto della tua attività (professionista o PMI)
+- Si attivano in base al contesto della tua attivita (professionista o PMI)
 
-L’esperienza è modellata sull’ICP reale mostrato nelle pagine SEO di **[agentemia.it](https://agentemia.it)**.
-
----
-
-## 🔌 Installazione in 1 riga. Zero penali.
-
-<p align="center">
-  <img src="assets/1-riga-codice-zero-penali.png" alt="1 Riga di Codice. Zero Penali." width="80%">
-</p>
-
-Disdici in qualsiasi momento. Nessun vincolo.
+L'esperienza e modellata sull'ICP reale mostrato nelle pagine SEO di **[agentemia.it](https://agentemia.it)**.
 
 ---
 
-## 🔍 Strategia AEO (AI Visibility)
+## Installazione in 1 riga. Zero penali.
 
-Rendiamo la tua attività **Agent-Ready**.  
-Costruiamo pagine-risposta ottimizzate affinché ChatGPT, Gemini e Perplexity citino la tua attività quando qualcuno chiede consigli rilevanti per il tuo settore.
+Una sola riga di codice da inserire.  
+Disdici in qualsiasi momento. Nessun vincolo. Nessuna penale.
 
 ---
 
-## 🔒 GDPR & Privacy
+## Strategia AEO (AI Visibility)
+
+Rendiamo la tua attivita **Agent-Ready**.  
+Costruiamo pagine-risposta ottimizzate affinche ChatGPT, Gemini e Perplexity citino la tua attivita quando qualcuno chiede consigli rilevanti per il tuo settore.
+
+---
+
+## GDPR & Privacy
 
 - Tutti i dati risiedono **nell'Unione Europea**
 - agentemIA = Responsabile del trattamento
@@ -128,14 +105,14 @@ Costruiamo pagine-risposta ottimizzate affinché ChatGPT, Gemini e Perplexity ci
 
 ---
 
-## 📊 Dashboard & Lead Funnel
+## Dashboard & Lead Funnel
 
 Console operativa in italiano:  
 Monitoraggio funnel a **8 stati** (da nuovo lead a cliente) + costi in tempo reale.
 
 ---
 
-## 🚀 Pronto a installare il tuo Reparto Front-Office AI?
+## Pronto a installare il tuo Reparto Front-Office AI?
 
 <p align="center">
   <a href="https://agentemia.it">
@@ -148,9 +125,9 @@ Monitoraggio funnel a **8 stati** (da nuovo lead a cliente) + costi in tempo rea
 
 ---
 
-### 📁 Struttura di questa vetrina
+### Struttura di questa vetrina
 
-Questa repository è **solo vetrina pubblica**.  
+Questa repository e **solo vetrina pubblica**.  
 Nessun file di codice, nessuna infrastruttura interna, nessun segreto.  
 Solo brand, posizionamento e chiarezza.
 
@@ -158,8 +135,9 @@ Solo brand, posizionamento e chiarezza.
 agentemia/
 ├── README.md
 ├── assets/
+│   ├── logo-mia.png                 (logo ufficiale mIA)
 │   ├── hero-team-mIA.png
-│   ├── hero-11s-risposta-tempo-reale.png
+│   ├── hero-risposta-tempo-reale.png
 │   ├── native-dom-naviga-utente.png
 │   ├── elena-prenotazione-calendar.png
 │   ├── autonomous-dreaming.png
@@ -172,6 +150,7 @@ agentemia/
 ---
 
 <p align="center">
-  <strong>agentemIA</strong> — Velocità · Verticalità · Verità<br>
-  <sub>Reparto Front-Office AI nativo · Made in EU · GDPR Compliant</sub>
+  <strong>agentemIA</strong> — Velocita · Verticalita · Verita<br>
+  <sub>Reparto Front-Office AI nativo · Made in EU · GDPR Compliant</sub><br>
+  <sub>IA PER PROFESSIONISTI E IMPRESE</sub>
 </p>
