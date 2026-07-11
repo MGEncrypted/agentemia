@@ -50,13 +50,13 @@ Cinque agenti specializzati che collaborano tramite **Context Handoff** automati
 <img src="sofia.jpg" width="90" style="border-radius:50%;"><br><strong>Sofia</strong><br><sub>Reception</sub>
 </td>
 <td align="center" width="120">
-<img src="daniel.jpg" width="90" style="border-radius:50%;"><br><strong>Daniel</strong><br><sub>Vendita</sub>
+<img src="assets/Gemini_Generated_Image_tu1hjitu1hjitu1h.png" width="90" style="border-radius:50%;"><br><strong>Daniel</strong><br><sub>Vendita</sub>
 </td>
 <td align="center" width="120">
-<img src="lucia.png" width="90" style="border-radius:50%;"><br><strong>Lucia</strong><br><sub>Care</sub>
+<img src="assets/lucia.png" width="90" style="border-radius:50%;"><br><strong>Lucia</strong><br><sub>Care</sub>
 </td>
 <td align="center" width="120">
-<img src="pablo.jpg" width="90" style="border-radius:50%;"><br><strong>Pablo</strong><br><sub>Supporto Tecnico</sub>
+<img src="assets/Gemini_Generated_Image_9aicyg9aicyg9aic.png" width="90" style="border-radius:50%;"><br><strong>Pablo</strong><br><sub>Supporto Tecnico</sub>
 </td>
 <td align="center" width="120">
 <img src="elena-nobg.png" width="90" style="border-radius:50%;"><br><strong>Elena</strong><br><sub>Agenda</sub>
@@ -187,9 +187,12 @@ agentemia/
 ├── README.md
 ├── assets/
 │   ├── mia-logo-orange.png
+│   ├── lucia.png
+│   ├── Gemini_Generated_Image_tu1hjitu1hjitu1h.png   (Daniel)
+│   ├── Gemini_Generated_Image_9aicyg9aicyg9aic.png   (Pablo)
 │   ├── 6.png ... 10.png
 │   └── ...
-├── sofia.jpg / daniel.jpg / lucia.png / pablo.jpg / elena-nobg.png
+├── sofia.jpg / elena-nobg.png
 ├── LICENSE
 ├── SECURITY.md
 └── CODE_OF_CONDUCT.md
