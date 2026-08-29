@@ -1,15 +1,10 @@
 # Assets — Brand Visuals agentemIA
 
-Carica qui le immagini del brand (logo + slide).
+Inventario corrente:
 
-File attesi:
-
-- logo-mia.png
-- hero-team-mIA.png
-- hero-risposta-tempo-reale.png
-- native-dom-naviga-utente.png
-- elena-prenotazione-calendar.png
-- autonomous-dreaming.png
-- 1-riga-codice-zero-penali.png
-
-Dopo il caricamento su GitHub, avvisami e aggiorno i tag nella README.
+- mia-logo-orange.png — logo brand
+- sofia.png, daniel.png, lucia.png, pablo.png, elena.png — avatar Squadra AI (240px)
+- demo-widget.gif — demo del widget dal video spot ufficiale (16:9)
+- console-dashboard.webp — dashboard console (tenant demo)
+- landing-live.jpg — screenshot di agentemia.it (2026-08-29)
+- slide-naviga.jpg, slide-zero-dropoff.jpg, slide-risultati.jpg — slide brand compresse (720px)
